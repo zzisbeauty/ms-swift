@@ -5,6 +5,11 @@ import subprocess
 import sys
 from typing import Dict, List, Optional
 
+import sys
+
+sys.path.append('/home/vipuser/Desktop/ms-swift')
+
+
 from swift.utils import get_logger
 
 logger = get_logger()

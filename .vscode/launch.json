@@ -1,0 +1,32 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "Python 调试程序: 包含参数的当前文件",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                "pt",
+                "--model", "Qwen/Qwen2.5-7B",
+                "--dataset", "/home/vipuser/Desktop/datasets/chinese-c4",
+                "--streaming", "true",
+                "--train_type", "full",
+                "--deepspeed", "zero2",
+                "--output_dir", "/home/vipuser/Desktop/ms-swift/output",
+                "--max_steps", "10000",
+            ],
+            "env": {
+                "NPROC_PER_NODE": "2",
+                "CUDA_VISIBLE_DEVICES": "0, 1"
+            }
+        }
+    ]
+}

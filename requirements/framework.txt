@@ -15,7 +15,7 @@ jieba
 matplotlib
 modelscope[datasets]>=1.19
 nltk
-numpy<2.0
+# numpy<2.0
 openai
 oss2
 pandas

@@ -1,0 +1,9 @@
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0001-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0002-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0003-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0004-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0005-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0006-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0007-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0008-of-0096.jsonl.zst
+https://huggingface.co/datasets/shjwudp/chinese-c4/resolve/main/data/chinese-c4-0009-of-0096.jsonl.zst
