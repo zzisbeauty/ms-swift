@@ -22,6 +22,8 @@
                 "--deepspeed", "zero2",
                 "--output_dir", "/home/vipuser/Desktop/ms-swift/output",
                 "--max_steps", "10000",
+                "--fp16", "true",
+                "--bf16", "false",
             ],
             "env": {
                 "NPROC_PER_NODE": "2",
